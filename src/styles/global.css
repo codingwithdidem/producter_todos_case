@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --clr-black: #03111a;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+::selection {
+  background: #232023;
+  color: #fff;
+}
+
+.flex-grow-1 {
+  flex-grow: 1;
+}
