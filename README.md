@@ -21,7 +21,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd todoscase
+  cd producter-todoscase
 ```
 
 Install dependencies
@@ -33,7 +33,7 @@ Install dependencies
 Start the dev server
 
 ```bash
-  npm run dev
+  npm run start
 ```
 
 ## Tech Stack
@@ -42,6 +42,5 @@ Start the dev server
 - [jsPDF](https://github.com/parallax/jsPDF) - A library to generate PDFs in JavaScript.
 - [jsPDF-Autotable](https://github.com/simonbengtsson/jsPDF-AutoTable) - Table plugin for jsPDF
 - [Tailwindcss](https://tailwindcss.com/) - A utility-first CSS framework
-- [NextJS](https://nextjs.org/) - React framework
 - [Framer Motion](https://www.framer.com/motion/) - React Animation Library
 - [Firebase](https://firebase.google.com/) - Realtime Database
