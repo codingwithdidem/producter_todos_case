@@ -8,7 +8,7 @@ A case study project for **Producter** 💛
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/codingwithdidem/producter_todos_case/main/public/demo.png)
+![App Screenshot](https://raw.githubusercontent.com/codingwithdidem/producter_todos_case/main/src/public/demo.png)
 
 ## Run Locally
 
